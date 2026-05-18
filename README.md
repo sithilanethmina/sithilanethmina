@@ -6,7 +6,12 @@ Full Stack Developer | Open Source
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sithilanethmina&show_icons=true&theme=tokyonight)
+![GitHub Trophy](https://github-profile-trophy.vercel.app/?username=sithilanethmina&theme=darkhub)
+
+![Profile Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sithilanethmina&theme=github_dark)
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sithilanethmina&theme=github-dark)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sithilanethmina&theme=tokyonight)
 
 ## 🛠️ Tech Stack
