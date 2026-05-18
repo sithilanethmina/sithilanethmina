@@ -6,8 +6,8 @@ Full Stack Developer | Open Source
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=sithilanethmina&show_icons=true&theme=tokyonight)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=sithilanethmina&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Sithila69&show_icons=true&theme=tokyonight)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Sithila69&theme=tokyonight)
 
 ## 🛠️ Tech Stack
 
